@@ -1,8 +1,9 @@
-# gcloud
+# Smart Oven
 
-[![Preview](https://serhiy.s3.eu-central-1.amazonaws.com/Github_repo/gcloud/logo_gcp_vertical_rgb.png?v=1)](https://cloud.google.com)
+Smart Oven is a new generation oven that enable out Pizza Store more efficiently.
+We now have 2 oven per store and around the world.
 
-GitHub Action which allows interacting with [Google Cloud Platform](https://cloud.google.com).
+
 
 ## Usage
 
