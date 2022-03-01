@@ -1,7 +1,13 @@
 # Smart Oven
 
-Smart Oven is a new generation oven that enable out Pizza Store more efficiently.
-We now have 2 oven per store and around the world.
+Smart Oven is a new generation oven that enable out tPizza Store more efficiently.
+
+We now have 2 oven per store and total 1000 oven around the world.
+
+Our data center work global and we ensure 99.999999% machine signal will not lost during daily store operation
+
+Our store engineer will regular upgrade abd maintain our specialize oven to maintain our compitative advantage compare to Pizza hub and Dominus
+
 
 
 
